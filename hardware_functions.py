@@ -1,0 +1,1 @@
+#  funções que vão simular o data input do arduino
